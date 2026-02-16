@@ -1,0 +1,26 @@
+*.pyd
+.pytest_cache/
+
+# Build
+build/
+dist/
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE/editor
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+logs/
+*.log
