@@ -2,7 +2,7 @@
 
 An openCV + mediapipe program that detects facial expressions and displays goated Tiktok cats like Rigby and Larry
 
-<img src="https://github.com/reinesana/MeowCV/blob/main/assets/cat-disgust.jpeg" width="300">
+<img src="https://github.com/Sakshimistic/CatFaceRecognition/blob/main/assets/cat-smile.png" width="300">
 
 ---
 
@@ -15,7 +15,7 @@ Using your webcam and the mediapipe library, the system tracks key facial landma
 2. Tongue → mouth open without triggering shock
 3. Glare → eye squint
 
-**Note**: This program is designed to be fun and easy to extend — perfect for experimenting with facial heuristics and expression detection.
+**Note**: This program is designed to be fun and easy to extend, perfect for experimenting with facial heuristics and expression detection.
 
 ---
 
@@ -32,7 +32,7 @@ Using your webcam and the mediapipe library, the system tracks key facial landma
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/reinesana/MeowCV.git
+git clone https://github.com/Sakshimistic/CatFaceRecognition.git
 ```
 
 ### 2. Install dependencies
@@ -81,6 +81,3 @@ squinting_threshold = 0.020  # softer glare
 
 ---
 
-Have fun 🐱💻
-
-MIT License © 2026 Shana Nursoo  
